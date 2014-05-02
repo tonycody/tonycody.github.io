@@ -1,27 +1,40 @@
 <!doctype html>
 <html>
-	<head>
-	<title>劳务状态查询</title>
-	<script type="text/javascript">
-        function query () {
-        	var card = document.getElementById(“cardNo”);
-        	alert('您输入的身份证号码是:'+card.val()+',对不起，后台代码还未完善。请稍后查询…');
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="chrome=1">
+    <title>劳务状态查询</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        function query() {
+            var card = document.getElementById("cardNo");
+            var cardStr = card.value.trim();
+            if (cardStr.length <= 0) {
+                alert("请输入内容后查询 ...");
+                return;
+            }
+            var url = "http://58.210.236.152/mrkcominfo/chk_id.php?key=o-hr&id=";
+            url = url + cardStr;
+            window.open(url);
         }
-	</script>
-	</head>
-	<body>
-		<div>
-			<table>
-			<tr>
-				<th>身份证:</th>
-				<td><input id="cardNo" type="text"></td>
-			</tr>
-			<tr>
-			<td>
-			<button type="submit" onclick="javascript:query();">查询</button>
-			</td>
-			</tr>
-			</table>
-		</div>
-	</body>
+    </script>
+</head>
+<body>
+<div>
+    <table>
+        <tr>
+            <th>身份证:</th>
+            <td><input id="cardNo" type="text"></td>
+        </tr>
+        <tr>
+            <td>
+                <button type="button" onclick="query()">查询</button>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
 </html>
