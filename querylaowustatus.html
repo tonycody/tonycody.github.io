@@ -1,16 +1,24 @@
 <!doctype html>
 <html>
-	<head><title>劳务状态查询</title></head>
+	<head>
+	<title>劳务状态查询</title>
+	<script type="text/javascript">
+        function query () {
+        	var card = document.getElementById(“cardNo”);
+        	alert('您输入的身份证号码是:'+card.val()+',对不起，后台代码还未完善。请稍后查询…');
+        }
+	</script>
+	</head>
 	<body>
 		<div>
 			<table>
 			<tr>
 				<th>身份证:</th>
-				<td><input type="text"></td>
+				<td><input id="cardNo" type="text"></td>
 			</tr>
 			<tr>
 			<td>
-			<button type="submit">查询</button>
+			<button type="submit" onclick="javascript:query();">查询</button>
 			</td>
 			</tr>
 			</table>
