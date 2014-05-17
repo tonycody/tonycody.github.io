@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c270e4-b514-4dd8-a758-a6b062b4e4e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/lw.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/index.html" afterPath="$PROJECT_DIR$/content/index.html" />
     </list>
     <ignored path="tonycody.github.io.iws" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24854651" vertical-offset="0" max-vertical-offset="817">
-              <caret line="9" column="100" selection-start-line="9" selection-start-column="100" selection-end-line="9" selection-end-column="100" />
+            <state vertical-scroll-proportion="0.57994187" vertical-offset="0" max-vertical-offset="912">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -57,6 +58,7 @@
         <option value="$PROJECT_DIR$/stylesheets/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/content/wz.html" />
+        <option value="$PROJECT_DIR$/content/lw.html" />
         <option value="$PROJECT_DIR$/content/index.html" />
       </list>
     </option>
@@ -272,6 +274,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1702509" vertical-offset="0" max-vertical-offset="1292">
           <caret line="5" column="111" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -294,6 +297,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.18662953" vertical-offset="134" max-vertical-offset="1325">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -337,10 +341,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/lw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7790698" vertical-offset="604" max-vertical-offset="1292">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24854651" vertical-offset="0" max-vertical-offset="817">
-          <caret line="9" column="100" selection-start-line="9" selection-start-column="100" selection-end-line="9" selection-end-column="100" />
+        <state vertical-scroll-proportion="0.57994187" vertical-offset="0" max-vertical-offset="912">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding />
         </state>
       </provider>
