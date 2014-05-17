@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+/*@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);*/
 
 body {
   padding:50px;
@@ -252,4 +252,63 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+#msg_win {
+    position: absolute;
+    right: 0px;
+    display: none;
+    overflow: hidden;
+    z-index: 99;
+    border: 1px solid none;
+    background: none;
+    width: 100px;
+    font-size: 12px;
+    margin: 0px;
+}
+
+#msg_win .icos {
+    position: absolute;
+    top: 2px;
+    *top: 0px;
+    right: 2px;
+    z-index: 9;
+}
+
+.icos a {
+    float: left;
+    color: #FFFFFF;
+    margin: 1px;
+    text-align: center;
+    font-weight: bold;
+    width: 14px;
+    height: 22px;
+    line-height: 22px;
+    padding: 1px;
+    text-decoration: none;
+    font-family: webdings;
+}
+
+.icos a:hover {
+    color: #FFCC00;
+}
+
+#msg_title {
+    background: #836FFF;
+    border-bottom: 1px solid #7A67EE;
+    border-top: 1px solid #FFF;
+    border-left: 1px solid #FFF;
+    color: #FFFFFF;
+    height: 25px;
+    line-height: 25px;
+    text-indent: 5px;
+    font-weight: bold;
+}
+
+#msg_content {
+    margin: 2px;
+    margin-right: 0;
+    width: 100px;
+    height: 155px;
+    overflow: hidden;
 }
