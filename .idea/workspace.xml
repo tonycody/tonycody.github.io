@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74c270e4-b514-4dd8-a758-a6b062b4e4e0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/index-byw.html" afterPath="$PROJECT_DIR$/content/index-byw.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/index-yxoz.html" afterPath="$PROJECT_DIR$/content/index-yxoz.html" />
     </list>
     <ignored path="tonycody.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="index-byw.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/index-byw.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38267148">
-              <caret line="32" column="99" selection-start-line="32" selection-start-column="99" selection-end-line="32" selection-end-column="99" />
+            <state vertical-scroll-proportion="0.62274367">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -59,8 +58,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/index-byw.html" />
         <option value="$PROJECT_DIR$/content/index-yxoz.html" />
+        <option value="$PROJECT_DIR$/content/index-byw.html" />
       </list>
     </option>
   </component>
@@ -335,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/index-byw.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38267148">
-          <caret line="32" column="99" selection-start-line="32" selection-start-column="99" selection-end-line="32" selection-end-column="99" />
+        <state vertical-scroll-proportion="0.62274367">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
