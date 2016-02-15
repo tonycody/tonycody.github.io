@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c270e4-b514-4dd8-a758-a6b062b4e4e0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/index-byw.html" afterPath="$PROJECT_DIR$/content/index-byw.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/index-yxoz.html" afterPath="$PROJECT_DIR$/content/index-yxoz.html" />
     </list>
     <ignored path="tonycody.github.io.iws" />
@@ -23,24 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-byw.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index-byw.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/index-byw.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.607142">
-              <caret line="38" column="47" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.48555955">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-yxoz.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/index-yxoz.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5198556">
-              <caret line="42" column="557" selection-start-line="42" selection-start-column="557" selection-end-line="42" selection-end-column="557" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -58,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/index-byw.html" />
         <option value="$PROJECT_DIR$/content/index-yxoz.html" />
+        <option value="$PROJECT_DIR$/content/index-byw.html" />
       </list>
     </option>
   </component>
@@ -348,21 +340,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/index-byw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.607142">
-          <caret line="38" column="47" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/index-yxoz.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5198556">
           <caret line="42" column="557" selection-start-line="42" selection-start-column="557" selection-end-line="42" selection-end-column="557" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/index-byw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48555955">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
