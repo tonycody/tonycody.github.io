@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkakara=self.webpackChunkakara||[]).push([[7918],{6922:function(a,e,s){var c=s(7294),k=Object.assign({React:c},c);e.Z=k}}]);
